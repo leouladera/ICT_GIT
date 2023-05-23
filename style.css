@@ -1,6 +1,21 @@
 body {
   background-color: aqua;
 }
+body {
+  margin: 0;
+  padding: 0;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: monospace;
+  text-align: center;
+  background-color: rgb(220, 236, 250);
+  padding: 2rem;
+  margin: 0;
+  text-transform: capitalize;
+}
 .para {
   text-align: center;
   font-family: sans-serif;
